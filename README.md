@@ -115,7 +115,7 @@ To run this project locally, follow these steps:
   *  Email: [22j14.chaitra@sjec.ac.in]
   *  GitHub: [https://github.com/CSuvarna23]
 
- * **Hanishree (4SO22CD022)**
+* **Hanishree (4SO22CD022)**
 
   *  Email: [22j22.hanishree@sjec.ac.in]
   *  GitHub: [https://github.com/Hanishree04]
