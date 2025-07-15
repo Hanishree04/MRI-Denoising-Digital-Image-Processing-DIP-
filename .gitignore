@@ -1,0 +1,11 @@
+.python-version
+celerybeat-schedule
+*.sage.py
+.env
+.venv
+venv/
+ENV/
+.spyderproject
+.spyproject
+.ropeproject
+/site
